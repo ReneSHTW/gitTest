@@ -34,4 +34,6 @@ public class Main2Activity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    //Some Comment to see changes on Git
 }
